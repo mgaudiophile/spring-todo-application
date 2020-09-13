@@ -11,3 +11,7 @@ public class TodoApplication {
 	}
 
 }
+
+/*
+ * @SpringBootApplication == @Configuration + @ComponentScan + @EnableAutoConfiguration
+ */
